@@ -1,12 +1,12 @@
-# SCT_WD_4
+
 
 📝 To-Do Web Application
 
-Task 04 – SkillCraft Technology Internship
+
 
 📌 About
 
-•This is a simple and user-friendly To-Do Web Application developed as Task 04 during my Web Development Internship at SkillCraft Technology.
+•This is a simple and user-friendly To-Do Web Application.
 The application helps users efficiently manage daily tasks by organizing and tracking them in one place.
 
 ✨ Features
